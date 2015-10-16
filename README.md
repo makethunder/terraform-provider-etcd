@@ -1,11 +1,13 @@
-# terraform-etcd
+# terraform-provider-etcd
 
 A plugin for Terraform enabling it to manipulate Etcd keys.
+
+[![Circle CI](https://circleci.com/gh/paperg/terraform-provider-etcd.svg?style=svg)](https://circleci.com/gh/paperg/terraform-provider-etcd)
 
 ## Installation
 
   1. Install [Terraform][1].
-  2. `go get github.com/paperg/terraform-etcd/terraform-provider-etcd`
+  2. `go get github.com/paperg/terraform-provider-etcd`
 
 ## API stability
 
