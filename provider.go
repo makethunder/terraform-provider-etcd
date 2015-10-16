@@ -1,4 +1,4 @@
-package etcd
+package main
 
 import (
 	"github.com/coreos/go-etcd/etcd"
