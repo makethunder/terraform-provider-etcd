@@ -6,6 +6,7 @@ A plugin for Terraform enabling it to manipulate Etcd keys.
 
 ## Requirements
   `go1.5+`
+  
   Note: If using `go1.5`, ensure you set `GO15VENDOREXPERIMENT=1` 
 
 ## Installation
